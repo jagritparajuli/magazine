@@ -1,6 +1,2 @@
-May 22, 2020 04:19:11 pm : (run Query database) : SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
-May 22, 2020 04:19:11 pm : (run Query database) : SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
-May 22, 2020 06:43:15 pm : (run Query database) : SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
-May 22, 2020 06:43:15 pm : (run Query database) : SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
-May 22, 2020 06:45:40 pm : (run Query database) : SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
-May 22, 2020 06:45:40 pm : (run Query database) : SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+May 23, 2020 02:30:01 pm : (addData) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'khwopa@magazine.com' for key 'email'
+May 23, 2020 02:31:01 pm : (addData) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'khwopa@magazine.com' for key 'email'
